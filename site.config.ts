@@ -62,7 +62,7 @@ export const site: SiteConfig = {
     title: "Book in a quick DM",
     intro: "Appointments are booked through Instagram. Tap the button to copy a starter message, then paste it into the chat.",
     dmMessage: "Hi The Puppy's Place! I would love to book a groom for my pup.\nPup's name:\nBreed and size:\nWhat they need (full groom, bath, tidy-up, nails):\nPreferred dates:",
-    links: [{ label: "Facebook", href: "https://www.facebook.com/303357579704600" }],
+    links: [],
     note: "By appointment only. Now welcoming new clients.",
   },
 
